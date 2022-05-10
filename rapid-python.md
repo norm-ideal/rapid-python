@@ -2,9 +2,12 @@
 
 ---
 subtitle: 初心者のための基本入出力演習
+
 author:
 - "出原至道 (idehara@tama.ac.jp)"
+
 date: \today{}
+
 ---
 
 ## プログラムを組む準備をする

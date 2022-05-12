@@ -1,7 +1,9 @@
 # だいたい正しい Python 入門２
 
+Copyright © 2022 IDEHARA, Norimimichi. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled “GNU Free Documentation License”.
+
 ---
-subtitle: 初心者のための繰り返し処理演習
+subtitle: 初心者のためのリストと繰り返し処理
 
 author:
 - "出原至道 (idehara@tama.ac.jp)"
@@ -30,7 +32,7 @@ for 要素をうけとる変数 in リスト:
 `for - in` 構文では、リストの中から１個ずつ要素を読み取り、「要素をうけとる変数」に代入してから、ブロック内を実行します。
 
 - 繰り返しの回数は、リストの要素数回です。
-- 最初から順番に要素を読み出します。
+- 最初から順番に要素を読み出します。リストと
 
 例：
 ```Python

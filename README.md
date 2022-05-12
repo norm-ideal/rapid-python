@@ -2,7 +2,7 @@
 
 Copyright © 2022 IDEHARA, Norimimichi. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled “GNU Free Documentation License”.
 
-このドキュメントは、多摩大学経営情報学部のプログラミング導入教育として、大学１年生に提供される教科書です。GFDL のもとで、一般に公開します。GitHub のライセンス選択には GFDL がないため、GPLv3 を選択しています。
+このドキュメントは、多摩大学経営情報学部のプログラミング導入教育として、大学１年生に提供される教科書です。GFDL のもとで、一般に公開します。
 
 ## 目的
 

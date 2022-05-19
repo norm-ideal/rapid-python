@@ -19,7 +19,7 @@ date: \today{}
 ```Python
 a = [1,7,3,2]
 for x in a:
-    print(a)
+    print(x)
 ```
 
 リストの要素を１個ずつ取り出しては計算に使うのが `for - in` 構文です。

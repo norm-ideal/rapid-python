@@ -1,2 +1,3 @@
 #!/usr/bin/bash
-pandoc rapid-python.md -o rapid-python.pdf -V documentclass=ltjarticle --pdf-engine=lualatex -N --toc --highlight-style=tango --shift-heading-level-by=-1 -V geometry:margin=1in
+_fname="$1"
+pandoc $_fname -o ${_fname%.*}.pdf -V documentclass=ltjarticle --pdf-engine=lualatex -N --toc --toc-depth=1 --highlight-style=tango --shift-heading-level-by=-1 -V geometry:margin=1in

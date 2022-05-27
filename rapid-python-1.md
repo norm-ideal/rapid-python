@@ -5,8 +5,7 @@ Copyright © 2022 IDEHARA, Norimimichi. Permission is granted to copy, distribut
 ---
 subtitle: 初心者のための条件分岐演習
 
-author:
-- "出原至道 (idehara@tama.ac.jp)"
+author: "出原至道 (idehara@tama.ac.jp)"
 
 date: \today{}
 

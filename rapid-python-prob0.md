@@ -237,9 +237,9 @@ section entitled "GNU Free Documentation License".
 試合が行われます。
 
     47 8
-    65
+    67
 
-トーナメント 39 試合、リーグ戦 26 試合です。
+トーナメント 39 試合、リーグ戦 28 試合です。
 
     128 2
     127

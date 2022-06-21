@@ -447,6 +447,7 @@ t = list(s)
 print(t)
 u = list(map(int, t))
 print(u)
+print(sum(u))
 ```
 
 ---

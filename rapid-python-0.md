@@ -16,7 +16,7 @@ date: \today{}
 
 ## プログラムを組む準備をする
 
-### Repl.it を使う
+### Repl.it を使う場合
 
 1. [Repl.It](https://repl.it/) に接続する
 1. Sign Up を選ぶ
@@ -27,7 +27,7 @@ date: \today{}
 
 ---
 
-### Google Colaboratory を使う
+### Google Colaboratory を使う場合
 
 1. [Colaboratory](https://colab.research.google.com/) に接続する
 1. Google アカウントでログインする

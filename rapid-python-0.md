@@ -385,7 +385,7 @@ print(c)
 a = [1,2,3,4,5]
 d = a[::-1]
 e = a[:3]
-f = a[3::-2]
+f = a[-2::]
 print(d)
 print(e)
 print(f)

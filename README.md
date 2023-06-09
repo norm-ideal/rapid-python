@@ -28,3 +28,6 @@ Copyright © 2022 IDEHARA, Norimimichi. Permission is granted to copy, distribut
 
 各節は、「サンプルリスト -- 解説 -- 応用例」で構成されています。応用例をみながら、学習者が自力でさらに変更を加え、各節の理解を深められるように設計しました。
 
+## 目次
+- [入門](/rapid-python-0.md)
+

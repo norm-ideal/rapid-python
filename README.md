@@ -29,5 +29,9 @@ Copyright © 2022 IDEHARA, Norimimichi. Permission is granted to copy, distribut
 各節は、「サンプルリスト -- 解説 -- 応用例」で構成されています。応用例をみながら、学習者が自力でさらに変更を加え、各節の理解を深められるように設計しました。
 
 ## 目次
-- [入門](/rapid-python-0.md)
-
+- [基本構造と入出力](/rapid-python-0.md)
+  - [演習問題](/rapid-python-prob0.md)
+- [条件分岐](/rapid-python-1.md)
+  - [演習問題](/rapid-python-prob1.md)
+- [リストと繰り返し](/rapid-python-2.md)
+  - [演習問題](/rapid-python-prob2.md)

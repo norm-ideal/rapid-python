@@ -76,18 +76,6 @@ s2 = getHello('world', -5)
 print( s2 )
 ```
 
-```Python
-def getHello(message,count):
-    if count<1:
-        return '回数がおかしいです'
-    print(message,'を',count,'回繰り返します')
-    m = message * count
-    return m
-
-s = getHello('hello', 10)
-print( s )
-print( m )
-```
 
 ---
 ### 関数の副作用・変数のスコープ
@@ -127,6 +115,21 @@ print( getHello('hello') )
 count = 5
 print( getHello('world') )
 ```
+
+```Python
+# 関数内の m は、外部から参照できない
+def getHello(message,count):
+    if count<1:
+        return '回数がおかしいです'
+    print(message,'を',count,'回繰り返します')
+    m = message * count
+    return m
+
+s = getHello('hello', 10)
+print( s )
+print( m )
+```
+
 
 ---
 ### さまざまな戻り値　（高難度）

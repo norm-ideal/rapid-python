@@ -155,8 +155,8 @@ import math
 # 答はタプルで返ってくるので、２変数を並べて受け取れる
 def solve2(a,b,c):
     q = math.sqrt( b*b - 4*a*c )
-    x1 = -b + q
-    x2 = -b - q
+    x1 = (-b + q) / (2 * a)
+    x2 = (-b - q) / (2 * a)
     return (x1,x2)
 
 a1,a2 = solve2(1,-3,2)

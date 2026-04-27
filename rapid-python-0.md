@@ -16,16 +16,6 @@ date: \today{}
 
 ## プログラムを組む準備をする
 
-### Repl.it を使う場合
-
-1. [Repl.It](https://repl.it/) に接続する
-1. Sign Up を選ぶ
-1. アカウントを作成する
-    - GitHub 連携を使うなら、GitHub アカウントでログイン
-    - 大学の gmail アカウントを使うなら、Google アカウントでログイン
-    - それ以外なら、適切に情報を入力する
-
----
 
 ### Google Colaboratory を使う場合
 
